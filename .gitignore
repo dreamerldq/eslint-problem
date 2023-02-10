@@ -1,0 +1,12 @@
+.idea/
+.DS_Store
+*.env
+*.project
+.vscode/
+node_modules/
+# package-lock.json
+yarn.lock
+build/
+.cache
+local.env.js
+.history
